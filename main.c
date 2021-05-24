@@ -4,6 +4,7 @@
 
 int main( )
 {
+	//pdte Nuevas funcionalidades
 
 	uint8_t x = 0;
 	uint8_t y = 128;
@@ -15,6 +16,8 @@ int main( )
 	uint8_t c = 0;
 	
 	c = suma (a,b)
+	
+	errmsg();
 	
 	printf(" Introducción a la programación en lenguaje C");
 	return 0;
