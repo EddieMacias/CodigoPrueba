@@ -1,5 +1,6 @@
 # include <stdio.h> 
 # include "D:\Training\GIT\Ejercicios\Ejercicio2\Libraries\gpio.h"
+# include "D:\Training\GIT\Ejercicios\Ejercicio2\Libraries\Functions.h"
 
 int main( )
 {
