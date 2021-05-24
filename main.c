@@ -6,6 +6,8 @@ int main( )
 {
 
 	printf("Nuevas funcionalidades")
+	printf("Prueba añadir codigo desde Github")
+	printf ("https://github.com/EddieMacias/CodigoPrueba.git")
 
 	uint8_t x = 0;
 	uint8_t y = 128;
