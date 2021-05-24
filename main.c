@@ -7,7 +7,10 @@ int main( )
 
 	printf("Nuevas funcionalidades")
 	printf("Prueba añadir codigo desde Github")
-	printf ("https://github.com/EddieMacias/CodigoPrueba.git")
+	printf("https://github.com/EddieMacias/CodigoPrueba.git")
+	
+	printf("pruebas 1.0")
+	printf("version conexion SSh public keys")
 
 	uint8_t x = 0;
 	uint8_t y = 128;
