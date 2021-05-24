@@ -1,0 +1,8 @@
+# include <stdio.h> 
+
+int main( )
+{
+	printf(" Introducción a la programación en lenguaje C");
+	return 0;
+}
+
