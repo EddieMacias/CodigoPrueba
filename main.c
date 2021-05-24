@@ -4,6 +4,7 @@
 
 int main( )
 {
+	printf("Nuevas funcionalidades")
 
 	uint8_t x = 0;
 	uint8_t y = 128;
