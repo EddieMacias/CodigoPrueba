@@ -26,6 +26,9 @@ int main( )
 	errmsg();
 	
 	printf(" Introducción a la programación en lenguaje C");
+	
+	printf("master 1")
+	
 	return 0;
 }
 
