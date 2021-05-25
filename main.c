@@ -29,6 +29,8 @@ int main( )
 	
 	printf("master 1")
 	
+	printf("master 2")
+	
 	return 0;
 }
 
